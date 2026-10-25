@@ -1,4 +1,4 @@
-# Sentin8 - The Platform
+# Sentin8 - The Enterprise Platform
 
 **Secure Post-Quantum-Safe Infrastructure Platform That Heals and Scales Itself.**
 
